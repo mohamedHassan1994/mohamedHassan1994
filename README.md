@@ -2,7 +2,8 @@
 
 ## 💫 About Me:
 🔭 I'm a Backend Developer passionate about building scalable and efficient server-side applications  
-💼 Experienced in developing RESTful APIs and Awesome Dashboards
+💼 Experienced in developing RESTful APIs, **integrating third-party services, and building seamless API connections**  
+📊 Skilled in crafting interactive and Awesome Dashboards  
 🌱 Currently exploring advanced design patterns and system architecture  
 ⚡ I enjoy optimizing database queries and improving application performance  
 📫 Reach me at: **mohamed.coord94@gmail.com**
